@@ -1,5 +1,9 @@
 # 💫 About Me:
-Engineering student <br>with a strong foundation in <br>Java, Flutter, Android development, <br>Python, SQL, and Data Structures & Algorithms<br>, complemented by hands-on experience<br>in workflow automation using Docker and n8n.<br> Experienced in developing <br>desktop, mobile, and web applications<br>, including<br> an AI-powered Off-Road Navigation System <br>using PyTorch, OpenCV, and Flask<br>, Android and Flutter applications, and <br>responsive business websites for<br> clients. Proficient with tools such as <br>Android Studio, Git, MySQL, VS Code, and<br> Linux, with a proven ability to deliver <br>real-world solutions.
+🚀 Engineering Student | Java • Flutter • Android • Python • SQL<br>
+💻 Building AI, Mobile, and Full-Stack Applications<br>
+🤖 Exploring Computer Vision, Automation, and DevOps (Docker & n8n)<br>
+🌱 Currently improving DSA, System Design, and Flutter Development<br>
+📌 Always building projects that solve real-world problems
 
 
 ## 🌐 Socials:
